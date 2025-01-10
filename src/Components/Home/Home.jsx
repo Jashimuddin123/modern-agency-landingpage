@@ -4,6 +4,7 @@ import GreateIdea from "../GreateIdea";
 import Marque from "../Marque";
 import ModernAgency from "../ModernAgency";
 import OurService from "../OurService";
+import ProjectPortfolio from "../ProjectPortfolio";
 
 
 const Home = () => {
@@ -16,6 +17,7 @@ const Home = () => {
             <Expertice></Expertice>
             <GreateIdea></GreateIdea>
             <OurService></OurService>
+            <ProjectPortfolio></ProjectPortfolio>
         </div>
     );
 };
