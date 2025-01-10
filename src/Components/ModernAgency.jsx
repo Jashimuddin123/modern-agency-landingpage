@@ -8,14 +8,14 @@ const ModernAgency = () => {
        <h1 className="text-green-600 w-44 bg-black border  border-green-600">...SMART SOLUTIONS</h1>
 
            {/* context div */}
-           <div className="flex items-center justify-between my-20">
+           <div className="flex items-center justify-between gap-8 my-28 mx-12">
             {/* text content div */}
             <div className="flex-1">
        <h1 className="text-white text-4xl text-left ml-16 font-bold">Best creative and <br /> modern agency</h1>
        <p className="text-white text-left ml-16 ">Rhoncus sodales sagittis risus accumsan fermentum. Maecenas egestas curae cras adipiscing nostra aliquet. Justo tincidunt egestas pellentesque dignissim euismod. Nam commodo ante morbi ut sagittis; sapien viverra auctor.
 
 Malesuada montes inceptos massa aliquet erat. Sit maximus a natoque metus convallis velit. Ornare semper nullam a penatibus libero elementum hac.</p>
-<div className="border border-y-4"></div>
+<div className="border border-emerald-600 ml-16 my-4 border-y-4"></div>
 {/*  */}
 <div className="flex justify-center items-center gap-8 mt-8">
   {/* Read More Button */}
