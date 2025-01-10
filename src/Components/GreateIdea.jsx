@@ -2,7 +2,7 @@
 
 const GreateIdea = () => {
     return (
-        <div className="w-full flex justify-center h-[700px] bg-zinc-600">
+        <div className="w-full flex justify-center h-[700px] bg-neutral-800 ">
             {/*img content */}
             <div className="flex-1 relative">
   <img
